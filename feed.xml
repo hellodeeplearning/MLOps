@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>MLOps: Deploying ML in a Business Context</title>
+    <link href="https://hellodeeplearning.github.io/MLOps/feed.xml" rel="self" />
+    <link href="https://hellodeeplearning.github.io/MLOps" />
+    <updated>1969-12-31T19:00:00-05:00</updated>
+    <author>
+        <name>Theja Tulabandhula</name>
+    </author>
+    <id>https://hellodeeplearning.github.io/MLOps</id>
+
+</feed>

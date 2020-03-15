@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MLOps: Deploying ML in a Business Context",
+    "description": "",
+    "home_page_url": "https://hellodeeplearning.github.io/MLOps",
+    "feed_url": "https://hellodeeplearning.github.io/MLOps/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Theja Tulabandhula"
+    },
+    "items": [
+    ]
+}
